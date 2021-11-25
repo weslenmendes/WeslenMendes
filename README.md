@@ -20,3 +20,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weslenmendes&show_icons=true&theme=dark&locale=en&layout=compact" alt="weslenmendes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weslenmendes&show_icons=true&theme=dark&locale=en" alt="weslenmendes" /></p>
+
+### Projects
+
+[PizzaChef](https://pizza-chef.vercel.app/)
+- [Repo](https://github.com/weslenmendes/pizza-chef)
+- Stack: NextJS + Tailwind + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
+
+***
+[Typing Game](https://typing-game-tan.vercel.app/)
+- [Repo](https://github.com/weslenmendes/typing-game)
+- Stack: ReactJS
+
+***
+[Let Me Ask](https://letmeask-7fabe.web.app/)
+- [Repo](https://github.com/weslenmendes/letmeask)
+- Stack: ReactJS + TypeScript + Firebase

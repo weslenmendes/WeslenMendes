@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, PostgreSQL e NextJS**
 
-- 💬 Ask me about **React, React Native and JavaScript**
+- 💬 Ask me about **JavaScript and ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

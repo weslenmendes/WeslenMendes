@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Weslen!</h1>
-<h3 align="center">Sou um Desenvolvedor Web Full-Stack e bachelando de Ciência da Computação pela UEVA.</h3>
+<h3 align="center">Sou um Desenvolvedor Web Full-Stack e bacharelando de Ciência da Computação pela UEVA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weslenmendes&label=Profile%20views&color=0eb47d&style=flat" alt="weslenmendes" /> </p>
 
